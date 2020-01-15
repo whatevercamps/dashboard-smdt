@@ -1,0 +1,5 @@
+.contTweets {
+    overflow-y: scroll;
+    height: 91.84vh;
+    overflow-x: hidden;
+}
