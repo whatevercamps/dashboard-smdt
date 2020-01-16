@@ -1,12 +1,12 @@
 .twitter-tweet {
     min-width: 0 !important;
-    margin: 0 !important;
 }
 .twitter-tweet-rendered{
     min-width: 0 !important;
-    margin: 0 !important;
 }
-
+.list-group-item{
+    border: none !important
+}
 .tweet_background {
     background-color: #ffffff;
     padding-left: 21px;
